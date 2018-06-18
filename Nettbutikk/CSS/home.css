@@ -1,0 +1,26 @@
+
+/*--- News carousel ---*/
+
+.newsCarousel
+{
+    max-width: 70vw;
+    margin-left: 15vw;
+    margin-right: 15vw;
+}
+
+
+
+
+/*--- New products display ---*/
+#newProductHeadline
+{
+    margin-top: 3vw;
+    margin-left: 2vw;
+    margin-bottom: 1vw;
+    text-decoration: underline;
+}
+#newProduct1
+{
+   
+}
+

@@ -1,0 +1,117 @@
+#productCategoryFilter
+{
+    background-color: purple;
+
+}
+
+#productCategoryDisplay
+{
+    background-color: red; 
+
+
+}
+
+#productCategoryHeader
+{
+    background-color: limegreen; 
+
+    height: 10vw;
+}
+
+#productCategoryTitle
+{
+    background-color: yellowgreen; 
+
+    height: 10vw;
+}
+
+#productCategorySotring
+{
+
+}
+
+.productCategoryList
+{
+    padding-left: 1vw;  
+    padding-right: 1vw;
+}
+
+.filterTitle
+{
+    text-decoration: underline;
+}
+
+
+
+
+/* --- --- */
+
+
+#productCategoryItem1_1
+{
+    background-color: black;
+    height: 3vw;
+}
+
+#productCategoryItem1_2
+{
+    background-color: white;
+    height: 3vw;
+}
+
+#productCategoryItem1_3
+{
+    background-color: black;
+    height: 3vw;
+}
+
+#productCategoryItem2_1
+{
+    background-color: pink;
+    height: 5vw;
+}
+
+#productCategoryItem2_2
+{
+
+}
+
+#productCategoryItem2_3
+{
+    background-color: pink;
+    height: 5vw;
+}
+
+#productCategoryItem3_1
+{
+    background-color: blue;
+    height: 5vw;
+}
+
+#productCategoryItem3_2
+{
+
+}
+
+#productCategoryItem3_3
+{
+    background-color: blue;
+    height: 5vw;
+}
+
+#productCategoryItem4_1
+{
+    background-color: grey;
+    height: 5vw;
+}
+
+#productCategoryItem4_2
+{
+
+}
+
+#productCategoryItem4_3
+{
+    background-color: grey;
+    height: 5vw;
+}

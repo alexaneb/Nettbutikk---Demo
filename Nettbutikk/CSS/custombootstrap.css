@@ -1,0 +1,18 @@
+.btn-success
+{
+    background-color: #7F055F;
+    border-color: #7F055F;
+}
+
+.btn-success:hover, .btn-success:focus, .btn-success:active, .btn-success.active, .open>.dropdown-toggle.btn-primary
+{
+    background-color: #620449;
+    border-color: #620449;
+}
+
+
+.carousel-inner img
+{
+    width: 70vw;
+    
+}
